@@ -21,13 +21,14 @@ written by: [yourname](https://github.com/yourname *optional link*)
 
 
 ### 2. Add Range
-- If users want to highlight a part of the protein sequence, they can type in following format in the Domain data box: "start, stop, type"
-- which start and stop refers to the region which users want to highlight. The type indicates a box or a green line
+- If users want to highlight some regions in the protein (like regions between domains), they can type in following format in the Domain data box: "start, stop, type"
+- which start and stop refers to the region which users want to highlight. The type is 0 or 1 indicates green line or a box covers that region.
 
 
 
-### 3. ...
-
+### 3. Add Site
+- If users want to highlight a specific site in the protein, they can type in following format in the Domain data box: "position, type"
+- which position is the site users want to highlight, and type is 0 or 1 refers a gray or red narrow to that site.
 ### Conclusion
 
 That's it! You've used the {Tool Name} to {objective}!
