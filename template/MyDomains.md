@@ -20,9 +20,13 @@ written by: [yourname](https://github.com/yourname *optional link*)
 
 
 
-### 2. ...
+### 2. Add Range
+- If users want to highlight a part of the protein sequence, they can type in following format in the Domain data box: "start, stop, type"
+- which start and stop refers to the region which users want to highlight. The type indicates a box or a green line
 
-### N. ...
+
+
+### 3. ...
 
 ### Conclusion
 
